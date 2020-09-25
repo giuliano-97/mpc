@@ -1,4 +1,4 @@
-# Temperature control of a refrigerated truck.
+# Temperature control of a refrigerated truck
 
 This repository contains the source code of the mini-project for the Model-Predictive control course of ETH Zurich - Spring Semester 2020. 
 
